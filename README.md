@@ -10,10 +10,8 @@
 <div align = center>
   
 <a href="https://github.com/Rodrigo-Justino">
-    
-<img height="150em" width="400"  src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Justino&show_icons=true&theme=dark&include_all_commits=true&count_private=true&theme=monokai"/> 
-                         
-<img min-height="500em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Justino&layout=compact&langs_count=7&theme=default  "/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-justino&show_icons=true&theme=default &include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-justino&layout=compact&langs_count=7&theme=default "/>
 
 </div>
   
