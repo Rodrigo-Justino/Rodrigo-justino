@@ -7,7 +7,14 @@
 
 
 <br> 
-<div align = center>
+<div>
+   <a href="https://www.linkedin.com/in/rodrigo-justino-1bb3a3119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+   </a>
+   <a href="https://api.whatsapp.com/send?phone=5583988820219&text=Ol%C3%A1%20meu%20nome%20%C3%A9%20Rodrigo%20em%20que%20posso%20ajuda-lo%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
+   <a href="https://t.me/Saitama3000" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"target="_blank"></a>
+  <a href="https://t.me/Saitama3000" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+ </div>
+<div>
   
 <a href="https://github.com/Rodrigo-Justino">
     
@@ -42,10 +49,4 @@
   
   ##
   
-  </div>
-   <a href="https://www.linkedin.com/in/rodrigo-justino-1bb3a3119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-   </a>
-   <a href="https://api.whatsapp.com/send?phone=5583988820219&text=Ol%C3%A1%20meu%20nome%20%C3%A9%20Rodrigo%20em%20que%20posso%20ajuda-lo%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
-   <a href="https://t.me/Saitama3000" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"target="_blank"></a>
-  <a href="https://t.me/Saitama3000" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
- <div>
+  
